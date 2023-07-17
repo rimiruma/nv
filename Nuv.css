@@ -1,0 +1,16 @@
+Nuv > ul{
+    display: flex;
+}
+nuv li{
+   list-style: none; 
+   max-width: 10px;
+   padding: 5px;
+}
+
+nav li: hover{
+    backgrund-color:lightgray;
+}
+    nav li a{
+text-decoration: none;
+color: black;
+}a
